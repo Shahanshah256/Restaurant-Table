@@ -1,0 +1,308 @@
+{
+    "data": [
+        {
+            "ourQualities": [
+                {
+                    "id": 1,
+                    "image": "https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg",
+                    "name": "Cheese Burger",
+                    "designation": "Fast Food"
+                },
+                {
+                    "id": 2,
+                    "image": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg",
+                    "name": "Pepperoni Pizza",
+                    "designation": "Italian"
+                },
+                {
+                    "id": 3,
+                    "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+                    "name": "White Sauce Pasta",
+                    "designation": "Italian"
+                },
+                {
+                    "id": 4,
+                    "image": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg",
+                    "name": "Veg Sandwich",
+                    "designation": "Snacks"
+                },
+                {
+                    "id": 5,
+                    "image": "https://images.pexels.com/photos/699953/pexels-photo-699953.jpeg",
+                    "name": "Hakka Noodles",
+                    "designation": "Chinese"
+                },
+                {
+                    "id": 6,
+                    "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg",
+                    "name": "Fried Rice",
+                    "designation": "Chinese"
+                },
+                {
+                    "id": 7,
+                    "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg",
+                    "name": "Chicken Biryani",
+                    "designation": "Indian"
+                },
+                {
+                    "id": 8,
+                    "image": "https://images.pexels.com/photos/2474661/pexels-photo-2474661.jpeg",
+                    "name": "Paneer Butter Masala",
+                    "designation": "Indian"
+                },
+                {
+                    "id": 9,
+                    "image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg",
+                    "name": "Masala Dosa",
+                    "designation": "South Indian"
+                },
+                {
+                    "id": 10,
+                    "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+                    "name": "Idli Sambar",
+                    "designation": "South Indian"
+                },
+                {
+                    "id": 11,
+                    "image": "https://images.pexels.com/photos/461382/pexels-photo-461382.jpeg",
+                    "name": "Chowmein",
+                    "designation": "Chinese"
+                },
+                {
+                    "id": 12,
+                    "image": "https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg",
+                    "name": "Kathi Roll",
+                    "designation": "Street Food"
+                },
+                {
+                    "id": 13,
+                    "image": "https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg",
+                    "name": "French Fries",
+                    "designation": "Snacks"
+                },
+                {
+                    "id": 14,
+                    "image": "https://images.pexels.com/photos/4611983/pexels-photo-4611983.jpeg",
+                    "name": "Mexican Taco",
+                    "designation": "Mexican"
+                },
+                {
+                    "id": 15,
+                    "image": "https://images.pexels.com/photos/1109197/pexels-photo-1109197.jpeg",
+                    "name": "Loaded Nachos",
+                    "designation": "Mexican"
+                },
+                {
+                    "id": 16,
+                    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+                    "name": "Green Salad",
+                    "designation": "Healthy"
+                },
+                {
+                    "id": 17,
+                    "image": "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg",
+                    "name": "Tomato Soup",
+                    "designation": "Starter"
+                },
+                {
+                    "id": 18,
+                    "image": "https://images.pexels.com/photos/1352245/pexels-photo-1352245.jpeg",
+                    "name": "Vanilla Ice Cream",
+                    "designation": "Dessert"
+                },
+                {
+                    "id": 19,
+                    "image": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg",
+                    "name": "Chocolate Cake",
+                    "designation": "Dessert"
+                },
+                {
+                    "id": 20,
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg",
+                    "name": "Cold Coffee",
+                    "designation": "Beverage"
+                },
+                {
+                    "id": 21,
+                    "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg",
+                    "name": "Masala Tea",
+                    "designation": "Beverage"
+                },
+                {
+                    "id": 22,
+                    "image": "https://images.pexels.com/photos/96974/pexels-photo-96974.jpeg",
+                    "name": "Orange Juice",
+                    "designation": "Beverage"
+                },
+                {
+                    "id": 23,
+                    "image": "https://images.pexels.com/photos/103566/pexels-photo-103566.jpeg",
+                    "name": "Strawberry Shake",
+                    "designation": "Beverage"
+                },
+                {
+                    "id": 24,
+                    "image": "https://images.pexels.com/photos/4611989/pexels-photo-4611989.jpeg",
+                    "name": "Chicken Wrap",
+                    "designation": "Fast Food"
+                },
+                {
+                    "id": 25,
+                    "image": "https://images.pexels.com/photos/4611986/pexels-photo-4611986.jpeg",
+                    "name": "Shawarma",
+                    "designation": "Arabic"
+                },
+                {
+                    "id": 26,
+                    "image": "https://images.pexels.com/photos/1639563/pexels-photo-1639563.jpeg",
+                    "name": "Seekh Kebab",
+                    "designation": "Mughlai"
+                },
+                {
+                    "id": 27,
+                    "image": "https://images.pexels.com/photos/5560762/pexels-photo-5560762.jpeg",
+                    "name": "Aloo Paratha",
+                    "designation": "Indian"
+                },
+                {
+                    "id": 28,
+                    "image": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg",
+                    "name": "Veg Thali",
+                    "designation": "Indian"
+                },
+                {
+                    "id": 29,
+                    "image": "https://images.pexels.com/photos/5560761/pexels-photo-5560761.jpeg",
+                    "name": "Rajma Chawal",
+                    "designation": "Indian"
+                },
+                {
+                    "id": 30,
+                    "image": "https://images.pexels.com/photos/5560760/pexels-photo-5560760.jpeg",
+                    "name": "Chole Bhature",
+                    "designation": "Indian"
+                },
+                {
+                    "id": 31,
+                    "image": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg",
+                    "name": "Pav Bhaji",
+                    "designation": "Street Food"
+                },
+                {
+                    "id": 32,
+                    "image": "https://images.pexels.com/photos/4611985/pexels-photo-4611985.jpeg",
+                    "name": "Vada Pav",
+                    "designation": "Street Food"
+                },
+                {
+                    "id": 33,
+                    "image": "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg",
+                    "name": "Veg Momos",
+                    "designation": "Chinese"
+                },
+                {
+                    "id": 34,
+                    "image": "https://images.pexels.com/photos/4611984/pexels-photo-4611984.jpeg",
+                    "name": "Spring Roll",
+                    "designation": "Chinese"
+                },
+                {
+                    "id": 35,
+                    "image": "https://images.pexels.com/photos/725997/pexels-photo-725997.jpeg",
+                    "name": "Grilled Fish",
+                    "designation": "Seafood"
+                },
+                {
+                    "id": 36,
+                    "image": "https://images.pexels.com/photos/3764643/pexels-photo-3764643.jpeg",
+                    "name": "Prawn Curry",
+                    "designation": "Seafood"
+                },
+                {
+                    "id": 37,
+                    "image": "https://images.pexels.com/photos/675951/pexels-photo-675951.jpeg",
+                    "name": "Beef Steak",
+                    "designation": "Continental"
+                },
+                {
+                    "id": 38,
+                    "image": "https://images.pexels.com/photos/824635/pexels-photo-824635.jpeg",
+                    "name": "Cheese Omelette",
+                    "designation": "Breakfast"
+                },
+                {
+                    "id": 39,
+                    "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg",
+                    "name": "Pancakes",
+                    "designation": "Breakfast"
+                },
+                {
+                    "id": 40,
+                    "image": "https://images.pexels.com/photos/4611982/pexels-photo-4611982.jpeg",
+                    "name": "Waffles",
+                    "designation": "Dessert"
+                },
+                {
+                    "id": 41,
+                    "image": "https://images.pexels.com/photos/302680/pexels-photo-302680.jpeg",
+                    "name": "Donuts",
+                    "designation": "Dessert"
+                },
+                {
+                    "id": 42,
+                    "image": "https://images.pexels.com/photos/1092730/pexels-photo-1092730.jpeg",
+                    "name": "Fruit Smoothie",
+                    "designation": "Healthy"
+                },
+                {
+                    "id": 43,
+                    "image": "https://images.pexels.com/photos/357756/pexels-photo-357756.jpeg",
+                    "name": "Sushi",
+                    "designation": "Japanese"
+                },
+                {
+                    "id": 44,
+                    "image": "https://images.pexels.com/photos/4611981/pexels-photo-4611981.jpeg",
+                    "name": "Ramen",
+                    "designation": "Japanese"
+                },
+                {
+                    "id": 45,
+                    "image": "https://images.pexels.com/photos/1640771/pexels-photo-1640771.jpeg",
+                    "name": "Falafel",
+                    "designation": "Middle Eastern"
+                },
+                {
+                    "id": 46,
+                    "image": "https://images.pexels.com/photos/1640770/pexels-photo-1640770.jpeg",
+                    "name": "Hummus",
+                    "designation": "Middle Eastern"
+                },
+                {
+                    "id": 47,
+                    "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+                    "name": "Lasagna",
+                    "designation": "Italian"
+                },
+                {
+                    "id": 48,
+                    "image": "https://images.pexels.com/photos/4611980/pexels-photo-4611980.jpeg",
+                    "name": "Macaroni",
+                    "designation": "Italian"
+                },
+                {
+                    "id": 49,
+                    "image": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg",
+                    "name": "Chocolate Brownie",
+                    "designation": "Dessert"
+                },
+                {
+                    "id": 50,
+                    "image": "https://images.pexels.com/photos/1028711/pexels-photo-1028711.jpeg",
+                    "name": "Cupcake",
+                    "designation": "Dessert"
+                }
+            ]
+        }
+    ]
+}
