@@ -1,8 +1,10 @@
-import React from "react";
+// import React from "react";
 import Navbar from "./Navbar";
-import Footer from "./Footer";
+// import Footer from "./Footer";
+import { useNavigate } from "react-router-dom";
 
 function HeroSection() {
+  const navigate = useNavigate();
   const styles = {
     hero: {
       height: "90vh",
@@ -59,6 +61,9 @@ function HeroSection() {
       cursor: "pointer",
     },
   };
+  const onchange = () => {
+    navigate("/menu");
+  };
   return (
     <>
       <div>
@@ -74,7 +79,9 @@ function HeroSection() {
 
             <div style={styles.buttons}>
               <button style={styles.primaryBtn}>Order Now</button>
-              <button style={styles.secondaryBtn}>View Menu</button>
+              <button style={styles.secondaryBtn} onClick={onchange}>
+                View Menu
+              </button>
             </div>
           </div>
         </div>

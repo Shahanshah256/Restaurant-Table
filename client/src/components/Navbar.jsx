@@ -1,6 +1,6 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { FaUtensils, FaBars } from "react-icons/fa";
-import { data } from "../restApi.json";
+// import { data } from "../restApi.json";
 import { Link } from "react-router-dom";
 
 function Navbar() {
@@ -62,11 +62,32 @@ function Navbar() {
       <div style={styles.logo}>
         <FaUtensils /> Foodie
       </div>
-      <div style={styles.links}>
-        <a href="/">Home</a>
-        <a href="/menu">Menu</a>
-        <Link to="/about"> About</Link>
-        <a href="/contact">Contact</a>
+      <div style={styles.links} className="">
+        <a
+          href="/"
+          style={{ ...styles.links, textDecoration: "none", color: "#fff" }}
+        >
+          Home
+        </a>
+        <Link
+          to="/menu"
+          style={{ ...styles.links, textDecoration: "none", color: "#fff" }}
+        >
+          Menu
+        </Link>
+        <Link
+          to="/about"
+          style={{ ...styles.links, textDecoration: "none", color: "#fff" }}
+        >
+          {" "}
+          About
+        </Link>
+        <Link
+          to="/contact"
+          style={{ ...styles.links, textDecoration: "none", color: "#fff" }}
+        >
+          Contact
+        </Link>
       </div>
       {/* Menu icon */}
       <div style={styles.menuIcon} onClick={() => setMenuOpen(!menuOpen)}>

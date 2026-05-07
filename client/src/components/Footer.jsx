@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import {
   FaFacebook,
   FaInstagram,
@@ -6,6 +6,7 @@ import {
   FaPhone,
   FaEnvelope,
 } from "react-icons/fa";
+import { Link } from "react-router-dom";
 
 function Footer() {
   const styles = {
@@ -79,10 +80,30 @@ function Footer() {
         {/* LINKS */}
         <div style={styles.column}>
           <h3 style={styles.heading}>Quick Links</h3>
-          <span style={styles.link}>Home</span>
-          <span style={styles.link}>Menu</span>
-          <span style={styles.link}>About</span>
-          <span style={styles.link}>Contact</span>
+          <Link
+            to="/"
+            style={{ ...styles.link, textDecoration: "none", color: "#fff" }}
+          >
+            Home
+          </Link>
+          <Link
+            to="menu"
+            style={{ ...styles.link, textDecoration: "none", color: "#fff" }}
+          >
+            Menu
+          </Link>
+          <Link
+            to="about"
+            style={{ ...styles.link, textDecoration: "none", color: "#fff" }}
+          >
+            About
+          </Link>
+          <Link
+            to="contact"
+            style={{ ...styles.link, textDecoration: "none", color: "#fff" }}
+          >
+            Contact
+          </Link>
         </div>
 
         {/* CONTACT */}

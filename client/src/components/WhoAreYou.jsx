@@ -1,5 +1,3 @@
-import React from "react";
-
 function WhoAreYou() {
   const styles = {
     container: {

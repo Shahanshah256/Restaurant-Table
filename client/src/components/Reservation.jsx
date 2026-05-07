@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import axios from "axios";
 import { FaUser, FaEnvelope, FaPhone } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
